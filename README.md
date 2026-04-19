@@ -1,48 +1,26 @@
-# 🚕 NYC Taxi Fare Analysis (Automatidata Project)
+# 📊 Data Analytics Portfolio
 
-## 📌 Project Overview
-This project analyzes New York City Taxi and Limousine Commission (TLC) trip data to understand key factors that influence taxi fares. The goal is to inspect, clean, and explore the dataset in preparation for predictive modeling.
+A collection of data analytics projects showcasing skills in Python, SQL, and data analysis.
 
-## 🎯 Objectives
-- Understand the dataset structure and variables  
-- Identify key features influencing taxi fares  
-- Detect anomalies and data quality issues  
-- Prepare data for further analysis and modeling  
+---
 
-## 🛠️ Tools Used
-- Python  
-- Pandas  
-- Jupyter Notebook  
+## 📁 Projects
 
-## 📊 Dataset
-The dataset contains taxi trip records, including:
-- Trip distance  
-- Fare amount  
-- Total amount  
-- Passenger count  
-- Payment type  
-- Pickup and drop-off times  
+### 1. TikTok Claims Classification Analysis
+Analyzed TikTok data to prepare for a machine learning model that classifies videos as claims or opinions.  
+➡️ [View Project](./tiktok-claims-analysis)
 
-## 🔍 Key Analysis Performed
-- Data inspection using `df.head()`, `df.info()`, and `df.describe()`  
-- Identification of relevant variables  
-- Sorting and filtering data to detect anomalies  
-- Analysis of payment types and tipping behavior  
-- Grouping data to explore patterns across vendors and passengers  
+---
 
-## 📈 Key Findings
-- Trip distance and fare amount are key drivers of taxi fares  
-- The dataset contains both numeric and non-numeric variables  
-- Some anomalies exist, such as extreme values in fare and trip distance  
-- Tipping behavior varies by payment type  
+### 2. NYC Taxi Fare Analysis (Automatidata)
+Analyzed NYC taxi data to understand factors influencing fare amounts and prepare data for predictive modeling.  
+➡️ [View Project](./automatidata-taxi-analysis)
 
-## 🚀 Next Steps
-- Perform full exploratory data analysis (EDA)  
-- Clean anomalies and missing data  
-- Create additional features (e.g., time-based variables)  
-- Build a predictive model for taxi fare estimation  
+---
 
-## 📁 Project Structure
-
-## 👤 Author
-Tshianeo Eadith Mulaudzi
+## 🛠️ Skills Demonstrated
+- Data cleaning and preprocessing  
+- Exploratory data analysis (EDA)  
+- Data visualization  
+- Working with real-world datasets  
+- Preparing data for machine learning  
