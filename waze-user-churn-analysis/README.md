@@ -27,7 +27,11 @@ This project analyzes Waze user data to understand patterns associated with user
 - Retained users use the app more regularly across more days
 - Device type does not appear to have a meaningful relationship with churn
 - Median-based comparisons were useful because several variables contain extreme values
-
+## 📈 Key Metrics
+- ~18% churn rate
+- ~82% retained users
+- ~700 missing values in churn label
+- ~50/50 split between Android and iPhone users
 ## Feature Engineering
 Created additional variables to better understand user behavior:
 - `km_per_drive`
