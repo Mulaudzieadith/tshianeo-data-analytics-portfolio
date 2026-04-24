@@ -27,7 +27,13 @@ This project explores lightning strike data from NOAA to identify patterns acros
 * Combined datasets using `concat()`
 * Merged data using `merge()`
 * Calculated monthly lightning percentages
+## Visualizations
 
+### Lightning Distribution by Weekday
+![Weekday](images/weekday_boxplot.png)
+
+### Monthly Lightning Percentage
+![Monthly](images/monthly_lightning_barplot.png)
 ## Key Insight
 
 Lightning activity is not evenly distributed across the year.
