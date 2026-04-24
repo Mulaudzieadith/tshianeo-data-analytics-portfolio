@@ -1,26 +1,63 @@
-# 📊 Data Analytics Portfolio
+📊 Data Analytics Portfolio
 
-A collection of data analytics projects showcasing skills in Python, SQL, and data analysis.
+This portfolio showcases data analytics projects focused on turning raw data into clear, actionable insights.
+My work combines data cleaning, exploratory analysis, and business-focused thinking to solve real-world problems.
 
----
+📁 Projects
+1. TikTok Claims Classification Analysis
 
-## 📁 Projects
+Explored TikTok data to support the development of a machine learning model that classifies videos as claims vs. opinions.
 
-### 1. TikTok Claims Classification Analysis
-Analyzed TikTok data to prepare for a machine learning model that classifies videos as claims or opinions.  
-➡️ [View Project](./tiktok-claims-analysis)
+Identified key patterns in user engagement and content features that could improve classification accuracy
+Structured and cleaned the dataset to make it suitable for downstream machine learning
 
----
+🔗 View Project
 
-### 2. NYC Taxi Fare Analysis (Automatidata)
-Analyzed NYC taxi data to understand factors influencing fare amounts and prepare data for predictive modeling.  
-➡️ [View Project](./automatidata-taxi-analysis)
+2. NYC Taxi Fare Analysis (Automatidata)
 
----
+Analyzed NYC taxi trip data to understand what drives fare variation.
 
-## 🛠️ Skills Demonstrated
-- Data cleaning and preprocessing  
-- Exploratory data analysis (EDA)  
-- Data visualization  
-- Working with real-world datasets  
-- Preparing data for machine learning  
+Uncovered relationships between trip distance, duration, and total fare, helping define key pricing drivers
+Cleaned and prepared messy real-world data, improving reliability for future predictive modeling
+
+🔗 View Project
+
+3. Unicorn Companies Analysis
+
+Analyzed global unicorn companies to identify patterns in valuation and growth.
+
+Highlighted industries consistently producing high-value companies, supporting investment-focused insights
+Quantified time-to-unicorn trends to better understand startup growth trajectories
+
+🔗 View Project
+
+4. Unicorn Time-to-Valuation Analysis
+
+Focused analysis on how quickly companies reach $1B valuation.
+
+Revealed differences in growth speed across industries, offering insight into high-growth sectors
+Created derived metrics to better measure and compare company growth timelines
+
+🔗 View Project
+
+5. Waze User Churn Analysis
+
+Analyzed user behavior data to understand churn and retention patterns.
+
+Identified behavioral differences between retained and churned users, highlighting potential early warning signals
+Generated insights that could support user retention strategies and product improvements
+
+🔗 View Project
+
+🛠️ Skills Demonstrated
+Data cleaning and preprocessing (handling missing data, inconsistencies, outliers)
+Exploratory Data Analysis (EDA)
+Feature engineering
+Data visualization and storytelling
+Working with large, real-world datasets
+Translating data into business-relevant insights
+🧰 Tools & Technologies
+Python (pandas, NumPy, Matplotlib)
+SQL
+Jupyter Notebook
+Power BI
